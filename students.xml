@@ -1,0 +1,32 @@
+<students>
+  <student clase="DAW">
+    <name>Raul</name>
+    <surname>Vaquerizo</surname>
+    <email>raulvt2003@gmail.com</email>
+    <dni>4829825b</dni>
+  </student>
+  <student clase="DAW">
+    <name>Herson</name>
+    <surname>Vega</surname>
+    <email>hvega@gmail.com</email>
+    <dni>48256822b</dni>
+  </student>
+  <student clase="DAW">
+    <name>Leo</name>
+    <surname>Chavez</surname>
+    <email>lchavez@gmail.com</email>
+    <dni>48445822b</dni>
+  </student>
+  <student clase="DAW">
+    <name>Aitor</name>
+    <surname>Monge</surname>
+    <email>amonge@gmail.com</email>
+    <dni>48445822b</dni>
+  </student>
+  <student clase="DAW">
+    <name>Matias</name>
+    <surname>Rodriguez</surname>
+    <email>mrodri@gmail.com</email>
+    <dni>48443212b</dni>
+  </student>
+</students>
